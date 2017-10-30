@@ -1,0 +1,402 @@
+﻿first half   上半场
+internal中场休息
+second half 下半场
+allowance 补时
+extra time 加时
+choice of ends and the kick-off are decided by the toss of a coin掷币挑边和开球
+kick off 开球
+kick-off-time开赛时间
+close game with long forward passes长传急攻
+short pass短传
+combination passed短传配合
+double pass二过一
+drive down the side-lines before centering the ball沉底传中
+pass-and receive combinations传接配合
+center传中
+cross pass横传
+one-touch pass一脚球
+ground pass地面传球
+scissors kick倒钩球
+lofted ball高吊球
+head ball顶球
+ferocious tackle拼抢
+block堵截
+support策应
+side tackle侧面抢截
+dash forward插上
+excessive dribbling盘带过多
+pincers movement两翼包抄
+playmaker进攻组织者
+outflank边路进攻
+fast break快攻
+volley shot凌空射门
+man-for-man marking盯人防守
+fill gap 补位
+balancing defense防守补位
+“blanket” defense 密集防守
+off side越位
+trip opponent绊人
+charge opponet 冲撞
+charge opponent from behind背后铲人
+fair charge合理冲撞
+send off the field of play将球员驱逐出场
+tackl铲球
+penalty-mark罚点球点
+take kick主罚点球
+sudden death突然死亡法
+determine the winner by penalty kicks以点球决胜负
+make space 制造空档
+off-side trap造越位战术
+total play全攻全过打法
+Football, soccer, Association football 足球
+
+杯赛
+Cup 杯
+FIFA 国际足联
+arch-rival 主要对手
+defending champion 卫冕冠军
+qualify for the next round 出线
+eliminate 淘汰
+final eight 前八强
+favourists 夺标热门
+dark horse 黑马、爆冷门
+Underdog - 黑马
+group round robin 小组循环赛
+group preliminaries 小组预赛
+
+联赛
+league 联赛
+ranking 排名次，名次
+aggregate score 总积分
+league table 联赛积分表
+away ground 客场场地
+away match 客场比赛
+on a home and away basis 主客场制
+home team 主队
+visiters team 客队
+promotion 升级
+relegation 降级
+first division team 甲级队
+second division 乙级队
+golden ball 金球
+golden boots 金靴奖
+top scorer 得分最高的队员
+transfer 转会
+
+其它比赛
+warming up competition 热身赛
+charity soccer match 慈善足球赛
+return leg 回访赛
+exhibition match 表演赛
+friendly match 友谊比赛
+invitational tournament 邀请赛
+
+场地
+stadium 体育场
+stands 看台
+field, pitch 足球场
+midfied 中场 center field
+half-way line 中线
+halfway flag 中线旗
+byline 边线 by-line 边线
+end line 底线
+back line卫线、端线
+kick-off circle 中圈，开球区
+corner area 角球区
+corner flag 角球旗
+penalty area 禁区 penalty box 禁区
+penalty mark （点球）发球点
+goal 球门，进球数
+goal area 球门区
+goal line 球门线
+goal net 球门网
+crossbar 球门横杆、门楣
+goal post 球门柱
+base of post 柱脚
+locker room (运动员)休息室、更衣室
+Boardroom 会议室
+Changing-room 更衣室
+Corporate boxes 团体席
+Dugout 教练席
+Bench 替补席
+Clubshop 俱乐部店
+Running-track 跑道
+Scoreboard 记分牌
+Hoardings 广告牌
+Tannoy 广播
+Ticket-office 售票厅
+Treatment room 治疗室
+Trophy room 纪念品展室
+Tunnel 球员通道
+Turnstiles 球场旋转门
+
+赛程
+Fixture list 赛程表
+half，halftime 半场
+first half 上半场
+half-time break 中场休息
+second half 下半场
+injury time伤停补时
+extra time 加时赛
+first leg 第一回合
+full time 全场比赛时间
+time out 暂停
+Warm-down 赛后休息
+Teamtalk 教练训话时间
+Press conference 记者招待会
+
+裁判
+referee 主裁判
+assistant助理裁判
+lineman 巡边员，边裁
+final whistle 终场哨声
+
+球员1
+professional soccer player 职业球员
+uniform number 球衣号码
+in red strip 身穿红色条衫
+fitness 身体素质
+stamina 体力、耐力
+in great form 竞技状态极佳
+football, eleven 足球队
+captain, leader 队长
+football player 足球运动员
+key player 主力队员
+player in 上场队员
+substitute，reserve players替补队员
+goalkeeper, goaltender, goalie 守门员
+back 后卫 defender 后卫 full back 后卫
+left 左后卫
+right back 右后卫
+centre half back 中卫
+midfield 中场
+half back 前卫 downfield 前卫
+left half back 左前卫
+right half back 右前卫
+forward 前锋 striker
+centre forward, centre 中锋
+inside left forward, inside left 左内锋
+inside right forward, inside right 右内锋
+outside left forward, outside left 左边锋
+outside right forward, outside right 右边锋
+
+球员2
+后卫: Back
+前卫: Midfielder
+前锋: 中锋: Striker
+自由人: libero
+中后卫: Center Back
+全能选手: utility player
+守门员: Goalkeeper, Goalie
+左(右)后卫: Left (Right) Back
+清道夫, 拖后中卫: Sweeper
+左(右)前卫: Left (Right) Midfielder
+攻击型前卫, 前腰: Attacking Midfielder
+防守型前卫, 后腰: Defending Midfielder
+球员3
+freeman 自由人
+sweeper 自由中卫
+march in 列队入场
+encounter 交锋
+winger 锋线队员
+offensive player 进攻队员
+striker 攻击手
+playmaker 组织进攻者
+supporting player 接应队员
+goal-buster 杰出射手
+up-rising star 后起之秀
+budding star 初露锋芒的明星
+star-studded 明星荟萃的
+
+观众
+fan 球迷
+aficionado (球)迷、狂热爱好者
+spectator 观众
+Crowd - 观众
+cheering squad拉拉队 cheering team 啦啦队
+football hooligan 足球流氓
+rioter 骚乱者
+capacity crowd 观众满座
+VIP box 重要人物席
+Supporters 支持者
+
+教练
+head coach 主教练
+coach 教练 instructor
+skipper 领队 guide
+trainer 助理教练
+
+其他人员
+soccer commentator 足球评论员
+Groundsman 修理草皮人员
+Ballboys - 捡球者
+Mascots - 滑嵇小丑
+
+判罚
+kick-off 开球
+goal kick 球门球
+corner ball, corner 角球
+corner kick 发角球
+goal kick 球门球
+header 头球
+hand ball 手球
+penalty kick 点球 spot kick
+penalty for a foul 犯规罚点球
+free kick 任意球
+direct freekick 直接任意球
+indirect free kick 间接任意球
+defensive wall 防守人墙
+line up a wall 筑人墙
+to set a wall 筑人墙
+place kick 定位球
+kick-out 踢出界
+throw-in 掷界外球
+offside 越位 off-side 越位
+red card 红牌（表示判罚出场）
+yellow card 黄牌（表示警告）
+penalise 处罚
+banish罚出场
+sending-off 罚下场 send-off 罚下场
+send a player off判罚出场
+match ban 禁赛命令
+suspend 停赛、禁赛
+to cheat作弊
+violent conduct 粗鲁行为
+foul 犯规
+foul marker 犯规指示旗
+to breaks the rules犯规
+foul play严重犯规
+The goal is disallowed进球无效
+deny a goal 判射无效
+delay the game 拖延比赛
+refuse obedience to the referee 不服裁判
+score 得分
+goals 射中次数
+Substitute 换人
+技术
+long pass 长传
+close pass, short pass 短传
+flank pass 边线传球
+high lobbing pass 高吊传球
+scissor pass 交叉传球
+volley pass 凌空传球
+hook pass 弧形传球
+triangular pass 三角传球
+rolling pass, ground pass 滚地传球
+back pass转身传球
+steep forward pass 大脚直传
+cross传中
+send in a cross from the left 左路传中
+send in a cross from the right 右路传中
+line pass 横传
+back-heel pass 脚后跟传球
+flick-on header 头球摆渡
+back pass 转身传球
+ball playing skill 控救技术
+deceptive movement 假动作
+bicycle kick, overhead kick 倒钩球
+chest-high ball 平胸球
+ground ball, grounder 地面球，地滚球
+ball handling 控制球
+block tackle 正面抢截
+interception 拦截
+body check 身体阻挡
+fair charge 合理冲撞
+chesting 胸部挡球
+close-marking defence 钉人防守
+consecutive passes 连续传球
+diving header 鱼跃顶球
+flying headar 跳起顶球
+dribbling 盘球，带球
+beat an opponent过人、越过对手
+slide tackle 铲球
+steal a ball 断球
+bullt 球门前混战
+clearance kick 解除危险的球
+make a powerful clearance kick 大脚解围
+goalkeeping守门
+finger-tip save （守门员）托救球
+clean catching （守门员）跳球抓好，接高球
+beat out a shot将球击出(守门员)
+to shoot 射门
+course of action 球路
+rebound 反弹球
+banana shot弧线射门、香蕉球
+volley shot 凌空射门
+grazing shot 贴地射门
+close-range shot 近射
+long drive 远射
+mishit 未射中
+own goal 踢入本方球门（对方得分），乌龙球
+equalizer 造成平分的射门
+free shot 射空门
+tap in the ball 轻拨入网
+open net 空门
+solo drive 单刀直入
+wall pass 二过一
+to pass the ball 传球
+runing off the ball 跑位
+support 接应
+to take a pass 接球
+trapping 停球
+spot pass 球传到位
+make a spot pass 传球到位
+to trap 脚底停球
+to intercept 截球
+to break through, to beat 带球过人
+to break loose 摆脱 shake off 摆脱
+break through 突破
+down-the-middle thrust 中路突破
+empty space 空档
+make space 制造空档
+blanket defence 密集防守
+man to man defence 人盯人防守
+mark space 区域联防
+offensive on the wings 从两翼进攻
+aerial duel向前场推进
+fast break 快攻
+fast counterattack 快速反攻
+be level with与……站在一条线上
+beat the offside trap反越位成功
+drop-ball（足球中的）争球
+to control the midfield 控制中场
+to disorganize the defence 破坏防守
+to fall back 退回
+to set the pace 掌握进攻节奏
+tempo of the game 比赛节奏
+to ward off an assault 击退一次攻势
+to break up an attack 破坏一次攻势
+one-sided game 一边倒的比赛
+close game 比分接近的比赛
+an incident-packed game 一场事故叠出的比赛
+tie-breaker 平分决胜的比赛
+rough play 粗野的比赛
+level the score 将比分扳平
+solid defence 防守坚固
+break the deadlock 打破僵局
+结果
+goalless draw 未得分，不分胜负
+a hat trick帽子戏法，连中三元
+Draw - 平局
+
+装备
+Ball 球
+Gloves 手套
+knee pads 护膝
+Socks 袜子
+Shinguards 护具
+Tracksuit 运动套装
+Studs 鞋钉
+Adaptor 转拉器
+Boots 足球鞋
+Cycling-shorts 自行车短型紧身裤
+First-aid kit 急救包
+Nets 网兜
+Notebook 小笔记本
+Pump 气筒
+Shinguards/Shinpads 护胫
+Shirts 足球上衣
+Shorts 短裤
+Socks 短袜
+Stopwatch 秒表
+Strips 服装
